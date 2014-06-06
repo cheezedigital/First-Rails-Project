@@ -1,0 +1,2 @@
+
+! --- follow these instructions for generating a rails application ---!
